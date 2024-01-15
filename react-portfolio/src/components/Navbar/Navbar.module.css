@@ -52,6 +52,7 @@
     .menuBtn {
         display: block;
         cursor: pointer;
+
     }
 
     .menuItems {
@@ -72,4 +73,10 @@
         display: flex;
         z-index: 1;
     }
+}
+
+@media screen and (min-width: 831px) {
+  .menuBtn {
+    display: none;
+  }
 }
