@@ -1,26 +1,26 @@
 [
     {
-      "title": "Project A",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
+      "title": "Static Web PortFolio",
+      "imageSrc": "projects/project1.png",
+      "description": "Web and Android developer showcasing a diverse portfolio of projects.",
+      "skills": ["Html", "CSS", "Javascript"],
+      "demo": "https://sirajlekhak.github.io/",
       "source": "https://www.github.com"
     },
     {
-      "title": "Project B",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Static Course site",
+      "imageSrc": "projects/project2.png",
+      "description": "Enhance your skills with our Course Site - a user-friendly platform for interactive learning.",
+      "skills": ["Html", "CSS", "Javascript"],
+      "demo": "https://sirajlekhak.github.io/portfolio2/",
+      "source": "https://github.com/sirajlekhak/portfolio2"
     },
     {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "title": "React Portfolio",
+      "imageSrc": "projects/project3.png",
+      "description": "React with Vite Portfolio - Explore my work in web and Android dev.Explore it yourself.",
       "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "demo": "https://sirajlekhak.netlify.app/",
+      "source": "https://github.com/sirajlekhak/portfolio3"
     }
   ]
